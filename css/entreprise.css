@@ -15,7 +15,7 @@ header{
     background-color: #737882; 
     height: 75px;
     width: 100%;
-    overflow-y: hidden;
+    overflow: hidden;
 }    
 @media screen and (min-width:800px){
     .icon, .btn{
